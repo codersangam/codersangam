@@ -54,7 +54,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codersangam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Sangam's Github Stats"/>
 </a>
 <a href="https://github.com/codersangam/flutter-basics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hritriik&repo=flutter-basics&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codersangam&repo=flutter-basics&theme=light" />
 </a>
 
 
