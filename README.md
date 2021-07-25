@@ -48,19 +48,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>    
 
 <a href="https://github.com/codersangam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersangam&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersangam&theme=dracula&hide_langs_below=1" />
 </a>
 <a href="https://github.com/codersangam">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=codersangam&show_icons=true&theme=light&line_height=27&count_private=true" alt="Sangam's Github Stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codersangam&show_icons=true&theme=midnight-purple&line_height=27&count_private=true" alt="Sangam's Github Stats"/>
 </a>
 <a href="https://github.com/codersangam/flutter-basics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codersangam&repo=flutter-basics&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codersangam&repo=flutter-basics&theme=nightowl" />
 </a>
 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
 
