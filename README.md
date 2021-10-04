@@ -28,8 +28,8 @@
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Java, Python, Laravel or any tech-related stuff.
 - 📫 How to reach me: [Portfolio - @codersangam](https://codersangam.com)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I nearly spent most of the time to learn new Technologies.
+- 🔫 My Weapon: MacBook Air 
 
 
 [![Linkedin: Sangam](https://img.shields.io/badge/-sangam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangam-singh-1b21941a0/)](https://img.shields.io/badge/-sangam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangam-singh-1b21941a0/)
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
+### Show some love. ⭐️  my repositories!
 
 </div>
 
