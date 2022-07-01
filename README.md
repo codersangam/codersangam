@@ -69,6 +69,14 @@
 
 <br/>
 
+## 🔥 Streak stats
+
+<p align="left">
+  <a href="https://github.com/samih93">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codersangam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codersangam&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
 **Statistics**
 <div align="left">
 <code><img height="500" src="https://wakatime.com/share/@4818b327-9c94-4397-85a6-c82a5027f03c/e1157c5e-8254-4708-91d0-481b2de77858.svg"></code>
