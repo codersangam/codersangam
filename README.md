@@ -1,91 +1,32 @@
-## Hello, I'm [Sangam Singh!](https://codersangam.com) 👋
+# 💫 About Me:
+👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python, Laravel or any tech-related stuff.<br>📫 How to reach me: Portfolio - @codersangam<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.<br>🔫 My Weapon: MacBook Air
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersangam&label=Profile Views&color=orange&style=flat-square" alt="codersangam" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersangam&label=Views&color=green&style=plastic" alt="iamSangam" /> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/codersangam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/codersangam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sangam-singh-1b21941a0/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14620300) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/codersangam) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<a href="https://www.twitter.com/codersangam">
-  <img align="left" alt="Sangam's Twitter" width="100px" height="28px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/sangam-singh-1b21941a0/">
-  <img align="left" alt="Sangam's Linkedin" width="100px" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://t.me/codersangam">
-  <img align="left" alt="Sangam's Telegram" width="100px" height="28px" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white&color=darkblue" />
-</a>
-<a href="https://instagram.com/codersangam">
-  <img align="left" alt="Sangam's Instagram" width="100px" height="28px" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&color=red" />
-</a>
-<a href="https://www.facebook.com/people/Ronnie/100026804131628/">
-  <img align="left" alt="Sangam's Facebook" width="100px" height="28px" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white&color=blue" />
-</a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codersangam&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=codersangam&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codersangam&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codersangam&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
-<br/>
+## ⚡️ Language Statistics
+<img height="400" src="https://wakatime.com/share/@4818b327-9c94-4397-85a6-c82a5027f03c/e1157c5e-8254-4708-91d0-481b2de77858.svg">
 
+## 📈 Contribution Graph:
+[![Sangam's github activity graph](https://activity-graph.herokuapp.com/graph?username=codersangam&bg_color=0C0404&theme=rogue&color=343432&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codersangam/github-readme-activity-graph)
 
-- 👀 I’m interested in developing mobile apps, AI and newer Technologies.
-- 🌱 I’m currently learning Flutter.
-- 💬 Ask me about Java, Python, Laravel or any tech-related stuff.
-- 📫 How to reach me: [Portfolio - @codersangam](https://codersangam.com)
-- ⚡ Fun fact: I nearly spent most of the time to learn new Technologies.
-- 🔫 My Weapon: MacBook Air 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-[![Linkedin: Sangam](https://img.shields.io/badge/-sangam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangam-singh-1b21941a0/)](https://img.shields.io/badge/-sangam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangam-singh-1b21941a0/)
-[![GitHub codersangam](https://img.shields.io/github/followers/codersangam?label=follow&style=social)](https://github.com/codersangam)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Sangam-2648ff?style=flat-square&logo=google-chrome)](https://codersangam.com)
-
-
-**Languages and Tools:**  
-
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>    
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
-
-<div align="left">
-<a href="https://github.com/codersangam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersangam&theme=dracula&hide_langs_below=1" />
-</a>
-<a href="https://github.com/codersangam">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=codersangam&show_icons=true&theme=midnight-purple&line_height=27&count_private=true" alt="Sangam's Github Stats"/>
-</a>
-<a href="https://github.com/codersangam/flutter-basics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codersangam&repo=flutter-basics&theme=nightowl" />
-</a>
-  <a href="https://github.com/codersangam/instagram_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codersangam&repo=instagram_clone&theme=nightowl" />
-</a>
-</div>
-
-<br/>
-
-## 🔥 Streak stats
-
-<p align="left">
-  <a href="https://github.com/samih93">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codersangam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codersangam&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-**Statistics**
-<div align="left">
-<code><img height="500" src="https://wakatime.com/share/@4818b327-9c94-4397-85a6-c82a5027f03c/e1157c5e-8254-4708-91d0-481b2de77858.svg"></code>
-</div>
-
-
-<div align="center">
-
-### Show some love. ⭐️  my repositories!
-
-</div>
-
+---
+[![](https://visitcount.itsvg.in/api?id=codersangam&icon=4&color=7)](https://visitcount.itsvg.in)
