@@ -29,4 +29,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codersangam&icon=4&color=7)](https://visitcount.itsvg.in)
+
