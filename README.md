@@ -22,11 +22,8 @@
 ## 📈 Contribution Graph:
 [![Sangam's github activity graph](https://activity-graph.herokuapp.com/graph?username=codersangam&bg_color=0C0404&theme=rogue&color=343432&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codersangam/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## 🐍 Contribution Snake:
+![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
