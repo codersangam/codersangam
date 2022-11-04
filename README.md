@@ -11,13 +11,19 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codersangam&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codersangam&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codersangam&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codersangam&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
-## ⚡️ Language Statistics
-<img height="400" src="https://wakatime.com/share/@4818b327-9c94-4397-85a6-c82a5027f03c/e1157c5e-8254-4708-91d0-481b2de77858.svg">
+## 🪪 Profile Summary
+<p align="center">
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codersangam&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codersangam&theme=github_dark&utcOffset=8"/>
+</p>
+<br>
+<p align="center">
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codersangam&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codersangam&theme=github_dark"/>
+</p>
+<br>
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersangam&theme=github_dark"/>
 
 ## 📈 Contribution Graph:
 [![Sangam's github activity graph](https://activity-graph.herokuapp.com/graph?username=codersangam&bg_color=0C0404&theme=rogue&color=343432&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codersangam/github-readme-activity-graph)
