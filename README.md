@@ -26,7 +26,7 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersangam&theme=github_dark"/>
 
 ## 📈 Contribution Graph:
-[![Sangam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codersangam&theme=tokyo-night)](https://github.com/codersangam/github-readme-activity-graph)
+[![Sangam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codersangam&theme=tokyo-night)](https://github.com/codersangam/github-readme-activity-graph)
 
 ## 🐍 Contribution Snake:
 ![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
