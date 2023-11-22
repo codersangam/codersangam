@@ -1,7 +1,12 @@
 <img height="200px" src="neon_logo.gif"/>
 
 # 💫 About Me:
-👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python, Laravel or any tech-related stuff.<br>📫 How to reach me: Portfolio - @codersangam<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.<br>🔫 My Weapon: MacBook Pro M1
+👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python, Laravel or any tech-related stuff.<br>📫 How to reach me: Portfolio - @codersangam<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.
+<br>
+🔫 My Weapon: MacBook Pro M1
+<br>
+🏫 Building World Advance Technology (WAT) <br>
+💎 Developing Crypto App, E-commerce App, Entertainment App ...
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=codersangam&color=orange&style=flat-square" alt="codersangam" /> 
