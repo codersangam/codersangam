@@ -24,7 +24,7 @@
 
 ## ⌘ Favourite Terminal
 <p align="left">
-  <a href="https://www.warp.dev/">
+  <a href="https://app.warp.dev/referral/969Z94">
     <img src="https://img.shields.io/badge/WARP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> 
   </a>
 </p>
