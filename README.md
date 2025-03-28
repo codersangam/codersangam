@@ -5,7 +5,7 @@
 <br>
 🔫 My Weapon: MacBook Pro M1 Pro
 <br>
-🏫 Building Jalwa <br>
+🏫 Building Jalwa, NanoCore <br>
 💎 Developing Crypto App, E-commerce App, Entertainment App ...
 
 <p align="left"> 
