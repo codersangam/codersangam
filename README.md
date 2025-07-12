@@ -1,11 +1,11 @@
 <img height="200px" src="neon_logo.gif"/>
 
 # 💫 About Me:
-👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Swift UI, React, Next js & Nest Js.<br>💬 Ask me about Flutter, Java, Python, Laravel or any tech-related stuff.<br>📫 How to reach me: <a href="https://codersangam.com">Portfolio - @codersangam</a> <br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.
+👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Swift UI, React, Pixi Js, Spine & Go.<br>💬 Ask me about Flutter, Java, Python, Laravel or any tech-related stuff.<br>📫 How to reach me: <a href="https://codersangam.com">Portfolio - @codersangam</a> <br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.
 <br>
 🔫 My Weapon: MacBook Pro M1 Pro
 <br>
-🏫 Building Jalwa, NanoCore <br>
+🏫 Building Games <br>
 💎 Developing Crypto App, E-commerce App, Entertainment App ...
 
 <p align="left"> 
